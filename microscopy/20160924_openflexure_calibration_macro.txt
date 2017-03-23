@@ -1,0 +1,20 @@
+run("Bandpass Filter...", "filter_large=40 filter_small=3 suppress=None tolerance=5 autoscale saturate");
+run("Subtract Background...", "rolling=50 light sliding");
+run("8-bit");
+setAutoThreshold("Default");
+//run("Threshold...");
+setAutoThreshold("MaxEntropy");
+//setThreshold(0, 231);
+setOption("BlackBackground", false);
+run("Convert to Mask");
+run("Close");
+run("Crop");
+//setTool("rectangle");
+//setTool("rectangle");
+makeRectangle(24, 99, 2556, 1827);
+
+run("Crop");
+run("Make Binary");
+run("Fill Holes");
+run("Set Measurements...", "area perimeter shape display redirect=None decimal=3");
+run("Analyze Particles...", "size=.5-Infinity show=Outlines display");
