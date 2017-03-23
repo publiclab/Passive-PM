@@ -16,10 +16,10 @@ The SEM stub sits between a [housing](housing) consisting of two plates that pro
 
 [image]
 
-### [Microscopy](microscopy/README.md)
+### [Microscopy](microscopy)
 Accurate measurements of PM<sub>2.5-10</sub> require that the slide surface where particles are deposited be imaged as completely as possible.  It is recommended to automate this process. We are using the [OpenFlexure]x(LINK) microscope for automated imaging.
 
-Images must then be processed to isolate and measure each deposited particle. Processing is currently happening with ImageJ.  See more details in [Microscopy](microscopy/README.MD)
+Images must then be processed to isolate and measure each deposited particle. Processing is currently happening with ImageJ.  See more details in [Microscopy](microscopy)
 
 [4-up image of processing]
 
