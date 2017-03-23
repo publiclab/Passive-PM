@@ -1,13 +1,12 @@
-#Contribute to the TALA replication project
-This repository is one aspect of a larger effort to replicate the TALA system, as well as use and document kite anemometers of other designs. In addition, the mathematical models used by the TALA system can be put to other uses, such as predicting the lift of a kite in known winds.
+#Contribute to the Passive PM 
+This repository is one aspect of a larger effort to [monitor particulate matter at Public Lab](https://publiclab.org/pm-monitoring).
 
-You can contribute to the TALA replication project by:
+You can contribute to this by:
  
-* Replicating the TALA kit and documenting your use of it on [publiclab.org](https://publiclab.org) with the tag "[kite-anemometer](https://publiclab.org/tag/kite-anemometer)." If you record your experiences elsewhere, please contact us and share.
-* Expanding our documentation of kite anemometry research and projects on [the Public Lab Wiki.](https://publiclab.org/wiki/kite-anemometers)
-* Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](./Kite-Wind-Speed-Meter) repository, as well as adding applications of those models.
+* Contributing to the open-licensed sections of this repository, or [requesting a license] for the patent-protected sections. 
+* Expanding our documentation of passive PM monitoring projects on [the Public Lab Wiki.](https://publiclab.org/wiki/passive-pm)
 * Adding your comments to [open issues in this repository](/issues).
-* Forking this repository and improving the design documentation, assembly instructions, or to add hardware or software for acquiring and interpretting data. 
+
 
 #Contributing to an OPEN Open Source project repository
 
