@@ -1,7 +1,7 @@
 ## Introduction to the Passive PM Monitor
 A [passive PM monitor](https://publiclab.org/wiki/passive-pm) collects airborne particles deposited on its surface without the use of mechanical or electrical systems. 
 
-This passive PM monitor collects particulate matter on a glass slide cover. The slide cover is then [imaged with a microscope](microscopy/README.md), each particle is measured, and an [analysis protocol](/analysis/README.md) is used to extrapolate the airborne concentration of coarse PM (PM<sub>2.5-10</sub>) during the sample period. 
+This passive PM monitor collects particulate matter on a glass slide cover. The slide cover is then [imaged with a microscope](microscopy/README.md), each particle is measured, and an [analysis protocol](analysis) is used to extrapolate the airborne concentration of coarse PM (PM<sub>2.5-10</sub>) during the sample period. 
 
 The Passive PM Monitor was developed at the University of Iowa based on the University of North Carolina Passive PM Monitor. Components developed at UNC are subject to US Patent 6,321,608 until April 7, 2020 and are not to be used unless under [license](license.md). Public Lab has an evaluation license from UNC for evaluating the use of the monitor for community science monitoring. [Contact Public Lab](staff@publiclab.org) about becoming an evaluation partner. 
  
