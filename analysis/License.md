@@ -1,6 +1,6 @@
 
 
-All documentation and plans in this repository are licensed under the [CERN Open Hardware License 1.2](CERN_OHL_1-2.md). Additionally, this Passive PM Monitor is covered by US Patent 6,321,608 held by the University of North Carolina and in effect until April 7th, 2020.  While certain components are not covered by this patent, use of the entire system for PM monitoring is. Each sub-folder of this repository contains licensing information.
+All documentation and plans in this repository are licensed under the [CERN Open Hardware License 1.2](./CERN_OHL_1-2.md). Additionally, this Passive PM Monitor is covered by US Patent 6,321,608 held by the University of North Carolina and in effect until April 7th, 2020.  While certain components are not covered by this patent, use of the entire system for PM monitoring is. Each sub-folder of this repository contains licensing information.
 
 In order for this documentation to remain openly accessible, plans for this device are based entirely on information in the public domain through publication. No contributors have had access to licensed versions of the invention itself or discussed this invention with the inventors. Repository contributions of proprietary information derived from discussions with the inventors or evaluations of commercial equipment built around this invention are prohibited. 
 
